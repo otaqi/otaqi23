@@ -4804,4 +4804,4 @@ client.on('message',  (message) => {
 
 
 
-client.login('NTAwMzEzODUxMjcxODM5NzU0.XxIT1g.bACKhbqvgduZmgXfVYf88DYPzAA');
+bot.login(process.env.token);
